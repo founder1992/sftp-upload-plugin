@@ -1,12 +1,12 @@
 # sftp-upload-plugin
 upload code through sftp when finish build
 
-##Installation
+## Installation
 ```$xslt
 npm i sftp-upload-plugin
 ```
 
-##Usage
+## Usage
 use in your webpack plugin config
 ```
 // in your webpack config
@@ -24,7 +24,7 @@ plugins: [
 ]
 ```
 
-##Result
+## Result
 
 when webpack bundle finish you'll see like
 
@@ -35,6 +35,6 @@ when webpack bundle finish you'll see like
 
 ```
 
-##License
+## License
 MIT
 
