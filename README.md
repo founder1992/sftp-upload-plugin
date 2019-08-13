@@ -1,4 +1,4 @@
-# sftp-upload-plugin
+# sftp-upload-plugin ![npm](https://badgen.net/npm/v/sftp-upload-plugin) ![last commit](https://badgen.net/github/last-commit/founder1992/sftp-upload-plugin) ![publish size](https://badgen.net/packagephobia/publish/sftp-upload-plugin)
 upload code through sftp when finish build
 
 ## Installation
