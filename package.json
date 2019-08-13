@@ -1,0 +1,28 @@
+{
+  "name": "sftp-upload-plugin",
+  "version": "1.0.4",
+  "description": "upload thought SFTP after build",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/founder1992/sftp-upload-plugin.git"
+  },
+  "keywords": [
+    "webpack",
+    "plugin",
+    "SFTP"
+  ],
+  "author": "founder1992",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/founder1992/sftp-upload-plugin/issues"
+  },
+  "homepage": "https://github.com/founder1992/sftp-upload-plugin#readme",
+  "dependencies": {
+    "cli-progress": "^3.0.0",
+    "ssh2-sftp-client": "^2.5.0"
+  }
+}
